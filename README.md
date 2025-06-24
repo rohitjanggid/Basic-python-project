@@ -1,2 +1,2 @@
 # Basic-python-project
-This is the same Python project that I made while learning Python.
+These are some basic Python projects that I created while learning Python.
